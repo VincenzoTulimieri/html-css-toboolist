@@ -11,6 +11,7 @@ header {
     height: 71px;
     background-color: #ffffff;
     padding-top: 12px;
+    margin-bottom: 55px;
 
 
 }
@@ -18,7 +19,7 @@ header {
 .img {
     display: inline-block;
     margin-left: 12px;
-    
+
 }
 
 h1 {
@@ -29,3 +30,40 @@ h1 {
 }
 
 /*main*/
+.contenitore {
+   width: 90px;
+   height: 37px;
+   background-color: #14aaf5;
+   border: 2px solid #ffffff;
+   border-radius: 10px;
+   padding-top: 8px;
+   display: inline-block;
+}
+.bottone{
+    color: #ffffff;
+    padding-left: 11px;
+}
+.bottone-section{
+    color:#c6cdd2;
+    padding-left: 11px;
+}
+
+.contenitore-section{
+    width: 110px;
+    height: 35px;
+    background-color: #ffffff;
+    border: 2px solid #c6cdd2;
+    border-radius: 10px;
+    padding-top: 8px;
+    display: inline-block;
+    padding-right: 11px;
+    
+}
+
+
+
+
+
+
+
+
