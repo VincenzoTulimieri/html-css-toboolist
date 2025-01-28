@@ -85,7 +85,7 @@ main {
 
 }
 
-.green{
+.green {
     color: #2dc6ab;
     padding-left: 4px;
     vertical-align: 55px;
@@ -98,7 +98,7 @@ main {
     vertical-align: 55px;
 }
 
-.pulsante { 
+.pulsante {
     width: 90px;
     height: 37px;
     background-color: #14aaf5;
@@ -108,9 +108,98 @@ main {
     display: inline-block;
     margin-bottom: 45px;
     vertical-align: 55px;
-    
+
 }
-.white{
+
+.white {
     color: #ffffff;
     padding-left: 10pix;
+}
+
+.no {
+    width: 25px;
+    height: 25px;
+    border: 2px solid #ff4444;
+    border-radius: 50%;
+    padding-bottom: 5px;
+    display: inline-block;
+
+}
+
+.red {
+    color: #ff4444;
+    padding-left: 4px;
+    vertical-align: 55px;
+}
+
+.purple {
+    width: 90px;
+    height: 37px;
+    background-color: #ab5de6;
+    border: 2px solid #ffffff;
+    border-radius: 10px;
+    padding-top: 8px;
+    display: inline-block;
+    margin-bottom: 45px;
+    vertical-align: 55px;
+}
+
+.light {
+    width: 90px;
+    height: 37px;
+    background-color: #2cc6ab;
+    border: 2px solid #ffffff;
+    border-radius: 10px;
+    padding-top: 8px;
+    display: inline-block;
+    margin-bottom: 45px;
+    vertical-align: 55px;
+}
+
+.mobile {
+    width: 90px;
+    height: 37px;
+    background-color: #ff9b00;
+    border: 2px solid #ffffff;
+    border-radius: 10px;
+    padding-top: 8px;
+    display: inline-block;
+    margin-bottom: 45px;
+    vertical-align: 55px;
+}
+
+.mobile {
+    width: 90px;
+    height: 37px;
+    background-color: #ff9b00;
+    border: 2px solid #ffffff;
+    border-radius: 10px;
+    padding-top: 8px;
+    display: inline-block;
+    margin-bottom: 45px;
+    vertical-align: 55px;
+}
+
+.pink {
+    width: 90px;
+    height: 37px;
+    background-color: #ec4a9d;
+    border: 2px solid #ffffff;
+    border-radius: 10px;
+    padding-top: 8px;
+    display: inline-block;
+    margin-bottom: 45px;
+    vertical-align: 55px;
+}
+
+.brown {
+    width: 90px;
+    height: 37px;
+    background-color: #a3d116;
+    border: 2px solid #ffffff;
+    border-radius: 10px;
+    padding-top: 8px;
+    display: inline-block;
+    margin-bottom: 45px;
+    vertical-align: 55px;
 }
